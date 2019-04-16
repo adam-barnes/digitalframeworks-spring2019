@@ -29,7 +29,7 @@ Creativity
 Other than clever phrasing, there was nothing especially creative in the story. Mundane graphics negatively impacted the piece significantly, because the story had the opportunity to be dynamic and compelling. That the finding was the product of another organizations research might have influenced the overall format and various structural elements. Taken as a informative, easy read the product was a hit. But fascinating data deserves better graphics. 
 Rating-2.5
 
-Critique 2
+# Critique 2
 [https://fivethirtyeight.com/features/white-voters-without-a-degree-remained-staunchly-republican-in-2018/]
 
 The key finding of this study was made evident by the author in the headline: White voters without a degree remained staunchly Republican in 2018. 
