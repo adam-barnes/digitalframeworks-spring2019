@@ -1,7 +1,7 @@
 # Story Idea 1
 Statistics indicate that voters without college degrees typically vote for candidates in the Republican party, especially if the voter is a white man. But what do the numbers say about the influence of education on communities. One might assume that college towns will cast their collective vote for democratic candidates, given the presumed influence of liberal university ideologies. 
 Is there a measurable impact? 
-I propose tracking voting data from several college towns in Illinois rural, central Illinois. Outside of Chicago, the state is decidedly Republican. Have colleges shaped the way their communities vote? 
+I propose tracking voting data from several college towns in Illinois rural, central Illinois. Outside of Chicago, the state is decidedly Republican. Have colleges shaped the way their communities vote? How do campaigns shape their messaging to secure a strong university presence? Or are they still considered to be largely irrelevant? 
 
 # Story Idea 2
 The measurable impact of the urban-rural divide on voter choice has been a critical pressure point for political analysts for decades. Why do cities vote predominantly for Democrats? Why are rural areas staunchly red? These questions affect how candidates reach out to particular regions. But just how localized can the data get? Sweeping generalizations serve as indicators of some voters behavior. So, I propose a hyper-localized analysis of voter data from rural counties in Illinois. Has there been a Trump effect? Can it be measured? 
