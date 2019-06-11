@@ -6,7 +6,7 @@ One brave professor at Illinois State University risked scrutiny and social ostr
 
 Business professor, Louis Reifschneider, who boasts a 2.6 rating on the prestigious academic website Rate My Professor, donated $160.00 to the president’s campaign in early October 2016. 
 
-The university is understandably outraged. 
+The university declined to comment.  
 
 
 Pitch: According to FEC filings, one professor donated to President Trump’s 2016 campaign. Why take the chance? I plan to profile a day in the life of this trend setter and obviously loathed professor at Illinois State. 
